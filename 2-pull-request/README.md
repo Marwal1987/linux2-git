@@ -98,6 +98,10 @@ git help
 
 ![](../assets/clone.png)
 
+```bash
+git clone https://github.com/<your-username>/linux2-git
+```
+
 - In your terminal, checkout to a new branch
 
 ```bash
