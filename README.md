@@ -16,5 +16,6 @@ git
 
 ## Links
 
-[Getting Started - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Getting Started - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
