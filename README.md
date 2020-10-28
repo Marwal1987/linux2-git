@@ -6,8 +6,9 @@ These are individual labs in a group. You do the labs on your local machine and 
 
 ## Labs
 
-1-basic-git-commands
-2-pull-request
+- 1-basic-git-commands
+
+- 2-pull-request
 
 ## Software
 
